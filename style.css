@@ -1,0 +1,30 @@
+*{
+    margin-top: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    text-align: center; 
+   
+    
+    color: aquamarine;
+    font-size: 1.2rem;
+}
+body{
+    margin: 0px;
+    padding: 0px;
+    background-image: url("images/ram.jpg");
+      background-color: black; 
+    box-sizing: border-box;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment:  fixed;
+    background-position: center;
+   
+}
+h3{
+    color: Silver;
+    
+}
+
+h2{
+    color: goldenrod;
+}
